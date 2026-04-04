@@ -2,7 +2,7 @@
   "version": 1,
   "base_track": "モエチャッカファイア",
   "base_artist": "弌誠",
-  "createdAt": "2025-12-12T16:40:56.860444Z",
+  "createdAt": "2026-04-04T11:34:24.660122Z",
   "candidates": [
     {
       "id": "lrclib_1",
@@ -13,12 +13,56 @@
       "path": "select/01_モエチャッカファイア_エレン・ジョー(CV_若山詩音).lrc"
     },
     {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "モエチャッカファイア",
+      "artist": "Ellen Joe(CV:Shion Wakayama)",
+      "has_synced": true,
+      "path": "select/02_モエチャッカファイア_Ellen_Joe(CV_Shion_Wakayama).lrc"
+    },
+    {
       "id": "petitlyrics_1",
       "source": "petitlyrics",
       "title": "モエチャッカファイア",
       "artist": "弌誠",
       "has_synced": false,
       "path": "select/pl_01_モエチャッカファイア_弌誠.txt"
+    },
+    {
+      "id": "localdb_1",
+      "source": "localdb",
+      "title": "モエチャッカファイア",
+      "artist": "弌誠",
+      "has_synced": true,
+      "path": "select/localdb_01_モエチャッカファイア_弌誠.lrc",
+      "repo_name": "Y2_FSvacEg0"
+    },
+    {
+      "id": "localdb_2",
+      "source": "localdb",
+      "title": "モエチャッカファイア",
+      "artist": "弌誠",
+      "has_synced": true,
+      "path": "select/localdb_02_モエチャッカファイア_弌誠.lrc",
+      "repo_name": "wZlv3qDPfjk"
+    },
+    {
+      "id": "localdb_3",
+      "source": "localdb",
+      "title": "モエチャッカファイア",
+      "artist": "弌誠",
+      "has_synced": true,
+      "path": "select/localdb_03_モエチャッカファイア_弌誠.lrc",
+      "repo_name": "it0GixHkSRE"
+    },
+    {
+      "id": "localdb_4",
+      "source": "localdb",
+      "title": "モエチャッカファイア",
+      "artist": "弌誠",
+      "has_synced": true,
+      "path": "select/localdb_04_モエチャッカファイア_弌誠.lrc",
+      "repo_name": "qzoq8cpp6qI"
     }
   ]
 }
